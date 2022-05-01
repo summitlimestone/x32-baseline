@@ -1829,22 +1829,22 @@
 /main/m/mix/04 ON   -oo
 /main/m/mix/05 ON   -oo +0 POST
 /main/m/mix/06 ON   -oo
-/dca/1 ON -10.3
-/dca/1/config "Band" 1 MG
-/dca/2 ON  -6.1
-/dca/2/config "Vocal" 1 CY
-/dca/3 ON  -9.9
-/dca/3/config "DRUMS" 1 YE
-/dca/4 ON  -5.1
-/dca/4/config "KEYS" 1 BL
+/dca/1 OFF -13.0
+/dca/1/config "Band" 74 MG
+/dca/2 OFF  -7.4
+/dca/2/config "Vocal" 43 CY
+/dca/3 ON  -4.0
+/dca/3/config "DRUMS" 10 YE
+/dca/4 ON  -3.3
+/dca/4/config "KEYS" 34 BL
 /dca/5 ON   -oo
 /dca/5/config "" 1 OFF
 /dca/6 ON  -3.9
-/dca/6/config "EL-GUIT" 1 YE
+/dca/6/config "EL-GUIT" 22 YE
 /dca/7 ON  -4.3
-/dca/7/config "AC-GUIT" 1 GN
+/dca/7/config "AC-GUIT" 23 GN
 /dca/8 ON  -2.7
-/dca/8/config "BASS" 1 RD
+/dca/8/config "BASS" 21 RD
 /fx/1 VRM
 /fx/1/source MIX13 MIX13
 /fx/1/par 84 2.40 24 30 22 2.0 1.10 0.63 113 5k5 24 84 OFF 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
