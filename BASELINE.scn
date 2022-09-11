@@ -1653,12 +1653,12 @@
 /bus/11/eq/4 PEQ 1k97 +0.00 2.0
 /bus/11/eq/5 PEQ 5k02 +0.00 2.0
 /bus/11/eq/6 HShv 10k02 +0.00 2.0
-/bus/11/mix ON  +1.3 ON -100 OFF   -oo
-/bus/11/mix/01 ON   -oo +0 POST 0
+/bus/11/mix ON   -oo OFF -100 OFF   -oo
+/bus/11/mix/01 ON   -oo -100 POST 0
 /bus/11/mix/02 ON   -oo
-/bus/11/mix/03 ON   -oo +0 POST 0
+/bus/11/mix/03 ON   -oo -100 POST 0
 /bus/11/mix/04 ON   -oo
-/bus/11/mix/05 ON   -oo +0 POST 0
+/bus/11/mix/05 ON   -oo -100 POST 0
 /bus/11/mix/06 ON   -oo
 /bus/11/grp %00000000 %000000
 /bus/12/config "Livestream R" 62 CY
@@ -1672,12 +1672,12 @@
 /bus/12/eq/4 PEQ 1k97 +0.00 2.0
 /bus/12/eq/5 PEQ 5k02 +0.00 2.0
 /bus/12/eq/6 HShv 10k02 +0.00 2.0
-/bus/12/mix ON  +1.3 ON +100 OFF   -oo
-/bus/12/mix/01 ON   -oo +0 POST 0
+/bus/12/mix ON   -oo OFF +100 OFF   -oo
+/bus/12/mix/01 ON   -oo +100 POST 0
 /bus/12/mix/02 ON   -oo
-/bus/12/mix/03 ON   -oo +0 POST 0
+/bus/12/mix/03 ON   -oo +100 POST 0
 /bus/12/mix/04 ON   -oo
-/bus/12/mix/05 ON   -oo +0 POST 0
+/bus/12/mix/05 ON   -oo +100 POST 0
 /bus/12/mix/06 ON   -oo
 /bus/12/grp %00000000 %000000
 /bus/13/config "Fx 1" 71 MG
