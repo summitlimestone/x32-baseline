@@ -9,8 +9,8 @@
 /config/mono LR+M OFF
 /config/solo   0.0 LRAFL 0.0 PFL AFL AFL OFF OFF OFF -20 OFF OFF OFF   0.3 OFF OFF OFF
 /config/talk ON INT
-/config/talk/A   0.0 OFF OFF %000000000000011111
-/config/talk/B   0.0 OFF OFF %000000000000011111
+/config/talk/A   0.0 OFF OFF %000000000000000001
+/config/talk/B   0.0 OFF OFF %000000000000000010
 /config/osc -36.0 100.2 946.3 F1 SINE 5
 /config/userrout/out 201 202 5 6 161 162 183 184 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 /config/userrout/in 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
@@ -1452,7 +1452,7 @@
 /fxrtn/08/mix/15 ON   -oo +0 POST 0
 /fxrtn/08/mix/16 OFF   -oo
 /fxrtn/08/grp %00000101 %000000
-/bus/01/config "" 71 OFF
+/bus/01/config "Talkback A" 45 RD
 /bus/01/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /bus/01/dyn/filter OFF 3.0 990.9
 /bus/01/insert OFF PRE OFF
@@ -1471,7 +1471,7 @@
 /bus/01/mix/05 ON   -oo +0 POST 0
 /bus/01/mix/06 ON   -oo
 /bus/01/grp %00000000 %000000
-/bus/02/config "" 71 OFF
+/bus/02/config "Talkback B" 46 RD
 /bus/02/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /bus/02/dyn/filter OFF 3.0 990.9
 /bus/02/insert OFF PRE OFF
@@ -1970,7 +1970,7 @@
 /outputs/p16/08/iQ OFF none Linear 0
 /outputs/p16/09 30 EQ-> OFF
 /outputs/p16/09/iQ OFF none Linear 0
-/outputs/p16/10 31 EQ-> OFF
+/outputs/p16/10 4 EQ-> OFF
 /outputs/p16/10/iQ OFF none Linear 0
 /outputs/p16/11 36 EQ-> OFF
 /outputs/p16/11/iQ OFF none Linear 0
