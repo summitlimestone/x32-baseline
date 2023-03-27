@@ -1,5 +1,5 @@
 # SCLC Baseline
-*X-32 config files for Summit Crossing Limestone Campus*
+*Config files for the Summit Crossing Limestone Campus tech team.*
 
 ## Introduction
 
