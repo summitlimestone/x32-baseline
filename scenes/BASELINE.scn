@@ -164,7 +164,7 @@
 /ch/04/mix/16 ON   -oo
 /ch/04/grp %01000001 %000000
 /ch/04/automix OFF  +0.0
-/ch/05/config "Electric" 1 YE 13
+/ch/05/config "Electric" 1 YE 4
 /ch/05/delay OFF   0.3
 /ch/05/preamp +0.0 OFF ON 24  92
 /ch/05/gate ON GATE -47.0 48.0 1  502  983 0
@@ -196,7 +196,7 @@
 /ch/05/mix/16 ON   -oo
 /ch/05/grp %00100001 %000000
 /ch/05/automix OFF  +0.0
-/ch/06/config "Electric2" 1 YE 4
+/ch/06/config "Electric2" 1 YE 13
 /ch/06/delay OFF   0.5
 /ch/06/preamp +0.0 OFF ON 24  92
 /ch/06/gate OFF GATE -80.0 60.0 1  502  983 0
@@ -260,7 +260,7 @@
 /ch/07/mix/16 ON   -oo
 /ch/07/grp %10000001 %000000
 /ch/07/automix OFF  +0.0
-/ch/08/config "iPad" 1 BL 14
+/ch/08/config "iPad" 1 BLi 14
 /ch/08/delay OFF   0.3
 /ch/08/preamp +0.0 OFF OFF 24  75
 /ch/08/gate OFF GATE -80.0 47.0 1  502 1284 0
@@ -1958,7 +1958,7 @@
 /outputs/p16/02/iQ OFF none Linear 0
 /outputs/p16/03 37 EQ-> OFF
 /outputs/p16/03/iQ OFF none Linear 0
-/outputs/p16/04 36 EQ-> OFF
+/outputs/p16/04 0 EQ-> OFF
 /outputs/p16/04/iQ OFF none Linear 0
 /outputs/p16/05 33 EQ-> OFF
 /outputs/p16/05/iQ OFF none Linear 0
