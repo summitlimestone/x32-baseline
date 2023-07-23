@@ -525,7 +525,7 @@
 /ch/16/dyn/filter OFF 3.0 990.9
 /ch/16/insert OFF POST OFF
 /ch/16/eq ON
-/ch/16/eq/1 LShv 64.7 -11.7 3.1
+/ch/16/eq/1 LShv 105.0 -10.2 3.1
 /ch/16/eq/2 PEQ 328.1 -7.50 4.5
 /ch/16/eq/3 PEQ 7k60 -8.75 4.1
 /ch/16/eq/4 HShv 7k87 -7.00 2.0
