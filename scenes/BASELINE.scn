@@ -425,7 +425,7 @@
 /ch/13/preamp +0.0 OFF ON 24 136
 /ch/13/gate OFF GATE -80.0 60.0 1  502  983 0
 /ch/13/gate/filter OFF 3.0 990.9
-/ch/13/dyn ON COMP PEAK LOG -26.5 7.0 1 0.00 10 10.0  151 POST 0 100 OFF
+/ch/13/dyn ON COMP PEAK LOG -26.0 7.0 3 4.00 35 10.0  151 POST 0 100 OFF
 /ch/13/dyn/filter OFF 3.0 990.9
 /ch/13/insert OFF POST OFF
 /ch/13/eq ON
@@ -433,7 +433,7 @@
 /ch/13/eq/2 PEQ 257.6 -6.25  10
 /ch/13/eq/3 PEQ 990.9 -0.25 2.0
 /ch/13/eq/4 HShv 10k02 +3.50 2.0
-/ch/13/mix ON  +3.0 ON +0 OFF   -oo
+/ch/13/mix ON  -5.0 ON +0 OFF   -oo
 /ch/13/mix/01 ON   -oo +0 EQ-> 0
 /ch/13/mix/02 ON   -oo
 /ch/13/mix/03 ON   -oo +0 EQ-> 0
@@ -462,10 +462,10 @@
 /ch/14/insert OFF POST OFF
 /ch/14/eq ON
 /ch/14/eq/1 LShv 266.7 -3.00  10
-/ch/14/eq/2 PEQ 677.7 -3.75 8.2
+/ch/14/eq/2 PEQ 276.1 -6.00 8.2
 /ch/14/eq/3 VEQ 2k19 +3.00 2.9
 /ch/14/eq/4 HShv 7k34 +0.75 2.0
-/ch/14/mix ON  -7.6 ON +2 OFF   -oo
+/ch/14/mix ON  -5.0 ON +2 OFF   -oo
 /ch/14/mix/01 ON   -oo +0 EQ-> 0
 /ch/14/mix/02 ON   -oo
 /ch/14/mix/03 ON   -oo +0 EQ-> 0
@@ -2020,8 +2020,8 @@
 /headamp/029 +40.0 OFF
 /headamp/030 +33.0 OFF
 /headamp/031 +28.5 OFF
-/headamp/032 +35.5 ON
-/headamp/033 +36.5 ON
+/headamp/032 +40.0 ON
+/headamp/033 +40.0 ON
 /headamp/034 +12.5 ON
 /headamp/035 +40.0 ON
 /headamp/036 +32.0 OFF
