@@ -142,10 +142,10 @@
 /ch/04/insert OFF POST OFF
 /ch/04/eq ON
 /ch/04/eq/1 LShv 91.4 +0.00 2.3
-/ch/04/eq/2 PEQ 164.4 -8.25 7.8
-/ch/04/eq/3 VEQ 1k91 +2.00 2.4
-/ch/04/eq/4 HShv 8k73 -1.25 2.0
-/ch/04/mix ON  -6.5 ON -8 OFF   -oo
+/ch/04/eq/2 PEQ 143.2 -6.50 7.8
+/ch/04/eq/3 VEQ 1k06 +2.00 2.4
+/ch/04/eq/4 HShv 5k57 -3.50 2.0
+/ch/04/mix ON  -7.9 ON -8 OFF   -oo
 /ch/04/mix/01 ON   -oo +0 EQ-> 0
 /ch/04/mix/02 ON   -oo
 /ch/04/mix/03 ON   -oo +0 EQ-> 0
