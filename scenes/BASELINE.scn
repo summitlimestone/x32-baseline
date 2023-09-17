@@ -39,7 +39,7 @@
 /ch/01/config "Synth L" 1 BL 5
 /ch/01/delay OFF   0.3
 /ch/01/preamp +0.0 OFF ON 24 173
-/ch/01/gate OFF GATE -80.0 60.0 1  502  983 0
+/ch/01/gate ON GATE -75.0 60.0 1  502  983 0
 /ch/01/gate/filter OFF 3.0 990.9
 /ch/01/dyn OFF COMP PEAK LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /ch/01/dyn/filter OFF 3.0 990.9
@@ -71,7 +71,7 @@
 /ch/02/config "Synth R" 1 BL 6
 /ch/02/delay OFF   0.3
 /ch/02/preamp +0.0 OFF ON 24 173
-/ch/02/gate OFF GATE -80.0 60.0 1  502  983 0
+/ch/02/gate ON GATE -75.0 60.0 1  502  983 0
 /ch/02/gate/filter OFF 3.0 990.9
 /ch/02/dyn OFF COMP PEAK LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /ch/02/dyn/filter OFF 3.0 990.9
@@ -103,7 +103,7 @@
 /ch/03/config "Keys" 1 BL 7
 /ch/03/delay OFF   0.3
 /ch/03/preamp +0.0 OFF ON 24  92
-/ch/03/gate OFF GATE -80.0 60.0 1  502  983 0
+/ch/03/gate ON GATE -75.0 60.0 1  502  983 0
 /ch/03/gate/filter OFF 3.0 990.9
 /ch/03/dyn OFF COMP PEAK LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /ch/03/dyn/filter OFF 3.0 990.9
@@ -199,7 +199,7 @@
 /ch/06/config "Electric2" 1 YE 13
 /ch/06/delay OFF   0.5
 /ch/06/preamp +0.0 OFF ON 24  92
-/ch/06/gate OFF GATE -80.0 60.0 1  502  983 0
+/ch/06/gate ON GATE -47.0 60.0 1  502  983 0
 /ch/06/gate/filter OFF 3.0 990.9
 /ch/06/dyn OFF COMP PEAK LOG -14.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /ch/06/dyn/filter OFF 3.0 990.9
@@ -263,7 +263,7 @@
 /ch/08/config "iPad" 1 BLi 14
 /ch/08/delay OFF   0.3
 /ch/08/preamp +0.0 OFF OFF 24  75
-/ch/08/gate OFF GATE -80.0 47.0 1  502 1284 0
+/ch/08/gate ON GATE -70.0 47.0 1  502 1284 0
 /ch/08/gate/filter OFF 3.0 990.9
 /ch/08/dyn OFF COMP PEAK LOG -11.0 4.0 2 5.50 12  200  538 POST 0 100 OFF
 /ch/08/dyn/filter OFF 3.0 1k78
@@ -295,7 +295,7 @@
 /ch/09/config "" 1 WH 0
 /ch/09/delay OFF   0.3
 /ch/09/preamp +0.0 OFF ON 24  36
-/ch/09/gate ON GATE -53.5 60.0 1  502  983 0
+/ch/09/gate ON GATE -80.0 60.0 1  502  983 0
 /ch/09/gate/filter OFF 3.0 990.9
 /ch/09/dyn ON COMP PEAK LOG -12.0 4.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /ch/09/dyn/filter OFF 3.0 990.9
@@ -327,7 +327,7 @@
 /ch/10/config "" 1 WH 0
 /ch/10/delay OFF   0.3
 /ch/10/preamp +0.0 OFF OFF 24  75
-/ch/10/gate OFF GATE -80.0 47.0 1  502 1284 0
+/ch/10/gate ON GATE -80.0 47.0 1  502 1284 0
 /ch/10/gate/filter OFF 3.0 990.9
 /ch/10/dyn OFF COMP PEAK LOG -11.0 4.0 2 5.50 12  200  538 POST 0 100 OFF
 /ch/10/dyn/filter OFF 3.0 1k78
@@ -359,7 +359,7 @@
 /ch/11/config "" 1 WH 0
 /ch/11/delay OFF   0.3
 /ch/11/preamp +0.0 OFF ON 24  57
-/ch/11/gate OFF GATE -80.0 60.0 1  502  983 0
+/ch/11/gate ON GATE -80.0 60.0 1  502  983 0
 /ch/11/gate/filter OFF 3.0 990.9
 /ch/11/dyn OFF COMP PEAK LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /ch/11/dyn/filter OFF 3.0 990.9
@@ -391,7 +391,7 @@
 /ch/12/config "Left Vox" 1 WH 9
 /ch/12/delay OFF   0.3
 /ch/12/preamp +0.0 OFF ON 24  84
-/ch/12/gate OFF GATE -70.0 60.0 1  502  983 0
+/ch/12/gate ON GATE -70.0 60.0 1  502  983 0
 /ch/12/gate/filter OFF 3.0 990.9
 /ch/12/dyn ON COMP PEAK LOG -25.5 4.0 3 3.50 35 10.0  151 POST 0 100 OFF
 /ch/12/dyn/filter OFF 3.0 990.9
@@ -423,7 +423,7 @@
 /ch/13/config "Wx Red" 1 WH 1
 /ch/13/delay OFF   0.3
 /ch/13/preamp +0.0 OFF ON 24 136
-/ch/13/gate OFF GATE -80.0 60.0 1  502  983 0
+/ch/13/gate ON GATE -80.0 60.0 1  502  983 0
 /ch/13/gate/filter OFF 3.0 990.9
 /ch/13/dyn ON COMP PEAK LOG -26.0 7.0 3 4.00 35 10.0  151 POST 0 100 OFF
 /ch/13/dyn/filter OFF 3.0 990.9
@@ -455,7 +455,7 @@
 /ch/14/config "Wx White" 1 WH 2
 /ch/14/delay OFF   0.5
 /ch/14/preamp +0.0 OFF ON 24  92
-/ch/14/gate OFF GATE -80.0 60.0 1  502  983 0
+/ch/14/gate ON GATE -80.0 60.0 1  502  983 0
 /ch/14/gate/filter OFF 3.0 990.9
 /ch/14/dyn ON COMP PEAK LOG -26.0 7.0 3 4.00 35 10.0  151 POST 0 100 OFF
 /ch/14/dyn/filter OFF 3.0 990.9
@@ -487,7 +487,7 @@
 /ch/15/config "Rght Vox" 1 WH 16
 /ch/15/delay OFF   0.3
 /ch/15/preamp +0.0 OFF ON 24 124
-/ch/15/gate OFF GATE -80.0 60.0 1  502  983 0
+/ch/15/gate ON GATE -60.0 60.0 1  502  983 0
 /ch/15/gate/filter OFF 3.0 990.9
 /ch/15/dyn ON COMP PEAK LOG -26.5 7.0 3 3.50 35 10.0  151 POST 0 100 OFF
 /ch/15/dyn/filter OFF 3.0 990.9
@@ -519,7 +519,7 @@
 /ch/16/config "SPKR" 1 YE 12
 /ch/16/delay OFF   0.3
 /ch/16/preamp +0.0 OFF OFF 24  98
-/ch/16/gate OFF GATE -68.5 60.0 1  502  983 0
+/ch/16/gate ON GATE -80.0 60.0 1  502  983 0
 /ch/16/gate/filter OFF 3.0 990.9
 /ch/16/dyn ON COMP PEAK LOG -24.0 7.0 3 3.00 35 6.32  108 POST 0 100 OFF
 /ch/16/dyn/filter OFF 3.0 990.9
