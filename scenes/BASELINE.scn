@@ -518,18 +518,18 @@
 /ch/15/automix OFF  +0.0
 /ch/16/config "SPKR" 1 YE 12
 /ch/16/delay OFF   0.3
-/ch/16/preamp +0.0 OFF OFF 24  98
+/ch/16/preamp +0.0 OFF ON 24 124
 /ch/16/gate ON GATE -80.0 60.0 1  502  983 0
 /ch/16/gate/filter OFF 3.0 990.9
 /ch/16/dyn ON COMP PEAK LOG -24.0 7.0 3 3.00 35 6.32  108 POST 0 100 OFF
 /ch/16/dyn/filter OFF 3.0 990.9
 /ch/16/insert OFF POST OFF
 /ch/16/eq ON
-/ch/16/eq/1 LShv 105.0 -10.2 3.1
-/ch/16/eq/2 PEQ 328.1 -7.50 4.5
-/ch/16/eq/3 PEQ 7k60 -8.75 4.1
-/ch/16/eq/4 HShv 7k87 -7.00 2.0
-/ch/16/mix ON -20.0 ON +0 OFF   -oo
+/ch/16/eq/1 LShv 58.3 +0.00 3.1
+/ch/16/eq/2 PEQ 328.1 +0.00 4.5
+/ch/16/eq/3 VEQ 5k20 -8.00 3.5
+/ch/16/eq/4 HShv 7k34 -3.75 2.0
+/ch/16/mix OFF -17.1 ON +0 OFF   -oo
 /ch/16/mix/01 ON   -oo +0 EQ-> 0
 /ch/16/mix/02 ON   -oo
 /ch/16/mix/03 ON   -oo +0 EQ-> 0
@@ -2031,7 +2031,7 @@
 /headamp/040 +21.0 OFF
 /headamp/041 +46.5 ON
 /headamp/042 +38.5 OFF
-/headamp/043 +40.0 OFF
+/headamp/043 +38.0 OFF
 /headamp/044 +38.5 ON
 /headamp/045 +49.0 ON
 /headamp/046 +15.5 OFF
