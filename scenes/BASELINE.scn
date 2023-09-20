@@ -263,7 +263,7 @@
 /ch/08/config "iPad" 1 BLi 14
 /ch/08/delay OFF   0.3
 /ch/08/preamp +0.0 OFF OFF 24  75
-/ch/08/gate ON GATE -70.0 47.0 1  502 1284 0
+/ch/08/gate ON GATE -65.0 47.0 1  502 1284 0
 /ch/08/gate/filter OFF 3.0 990.9
 /ch/08/dyn OFF COMP PEAK LOG -11.0 4.0 2 5.50 12  200  538 POST 0 100 OFF
 /ch/08/dyn/filter OFF 3.0 1k78
