@@ -201,7 +201,7 @@
 /ch/06/preamp +0.0 OFF ON 24  92
 /ch/06/gate ON GATE -47.0 60.0 1  502  983 0
 /ch/06/gate/filter OFF 3.0 990.9
-/ch/06/dyn OFF COMP PEAK LOG -14.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
+/ch/06/dyn ON COMP PEAK LOG -14.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /ch/06/dyn/filter OFF 3.0 990.9
 /ch/06/insert OFF POST OFF
 /ch/06/eq ON
