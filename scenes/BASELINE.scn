@@ -1982,7 +1982,7 @@
 /outputs/p16/14/iQ OFF none Linear 0
 /outputs/p16/15 40 PRE OFF
 /outputs/p16/15/iQ OFF none Linear 0
-/outputs/p16/16 41 PRE OFF
+/outputs/p16/16 41 PRE+M OFF
 /outputs/p16/16/iQ OFF none Linear 0
 /outputs/aes/01 1 POST OFF
 /outputs/aes/02 2 POST OFF
