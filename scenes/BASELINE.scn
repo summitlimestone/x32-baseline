@@ -34,7 +34,7 @@
 /config/amixenable ON ON
 /config/dp48 %0000 0 AESA
 /config/dp48/assign 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-/config/dp48/link 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 0 0 0 0 0 0 0 1
+/config/dp48/link 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 0 0 0 0 1 0 0 0
 /config/dp48/grpname "" "" "" "" "" "" "" "" "" "" "" ""
 /ch/01/config "Synth L" 1 BL 5
 /ch/01/delay OFF   0.3
@@ -1952,37 +1952,37 @@
 /outputs/aux/04 2 POST OFF
 /outputs/aux/05 0 POST OFF
 /outputs/aux/06 0 POST OFF
-/outputs/p16/01 40 EQ-> OFF
+/outputs/p16/01 4 EQ-> OFF
 /outputs/p16/01/iQ OFF none Linear 0
-/outputs/p16/02 38 EQ-> OFF
+/outputs/p16/02 9 EQ-> OFF
 /outputs/p16/02/iQ OFF none Linear 0
-/outputs/p16/03 37 EQ-> OFF
+/outputs/p16/03 8 EQ-> OFF
 /outputs/p16/03/iQ OFF none Linear 0
-/outputs/p16/04 0 EQ-> OFF
+/outputs/p16/04 29 EQ-> OFF
 /outputs/p16/04/iQ OFF none Linear 0
-/outputs/p16/05 33 EQ-> OFF
+/outputs/p16/05 30 EQ-> OFF
 /outputs/p16/05/iQ OFF none Linear 0
-/outputs/p16/06 29 EQ-> OFF
+/outputs/p16/06 31 EQ-> OFF
 /outputs/p16/06/iQ OFF none Linear 0
-/outputs/p16/07 39 EQ-> OFF
+/outputs/p16/07 32 EQ-> OFF
 /outputs/p16/07/iQ OFF none Linear 0
-/outputs/p16/08 30 EQ-> OFF
+/outputs/p16/08 33 EQ-> OFF
 /outputs/p16/08/iQ OFF none Linear 0
-/outputs/p16/09 31 EQ-> OFF
+/outputs/p16/09 6 EQ-> OFF
 /outputs/p16/09/iQ OFF none Linear 0
-/outputs/p16/10 4 EQ-> OFF
+/outputs/p16/10 7 EQ-> OFF
 /outputs/p16/10/iQ OFF none Linear 0
-/outputs/p16/11 32 EQ-> OFF
+/outputs/p16/11 49 EQ-> OFF
 /outputs/p16/11/iQ OFF none Linear 0
-/outputs/p16/12 49 <-EQ OFF
+/outputs/p16/12 37 <-EQ OFF
 /outputs/p16/12/iQ OFF none Linear 0
-/outputs/p16/13 8 PRE OFF
+/outputs/p16/13 38 PRE OFF
 /outputs/p16/13/iQ OFF none Linear 0
-/outputs/p16/14 9 PRE OFF
+/outputs/p16/14 39 PRE OFF
 /outputs/p16/14/iQ OFF none Linear 0
-/outputs/p16/15 6 PRE OFF
+/outputs/p16/15 40 PRE OFF
 /outputs/p16/15/iQ OFF none Linear 0
-/outputs/p16/16 7 PRE OFF
+/outputs/p16/16 41 PRE OFF
 /outputs/p16/16/iQ OFF none Linear 0
 /outputs/aes/01 1 POST OFF
 /outputs/aes/02 2 POST OFF
