@@ -1926,7 +1926,7 @@
 /outputs/main/05/delay OFF   0.4
 /outputs/main/06 9 POST OFF
 /outputs/main/06/delay OFF   0.3
-/outputs/main/07 10 POST OFF
+/outputs/main/07 74 POST OFF
 /outputs/main/07/delay OFF   0.3
 /outputs/main/08 11 POST OFF
 /outputs/main/08/delay OFF   0.3
