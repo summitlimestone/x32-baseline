@@ -9,9 +9,3 @@
 /eq/2 PEQ 276.1 -6.25  10
 /eq/3 PEQ 924.8 +1.75 2.0
 /eq/4 HShv 8k14 +3.75 2.0
-/mix/fader  -0.6
-/mix/st ON
-/mix/pan +0
-/mix/mono OFF
-/mix/mlevel   -oo
-/headamp/032 +40.0 ON

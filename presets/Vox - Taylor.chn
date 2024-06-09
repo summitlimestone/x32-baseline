@@ -7,8 +7,3 @@
 /eq/2 PEQ 276.1 -6.00 8.2
 /eq/3 VEQ 2k19 +2.25 2.9
 /eq/4 HShv 7k34 +0.75 2.0
-/mix/fader  -1.0
-/mix/st ON
-/mix/pan +2
-/mix/mono OFF
-/mix/mlevel   -oo
