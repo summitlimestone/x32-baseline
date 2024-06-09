@@ -1,0 +1,12 @@
+/preamp +0.0 OFF ON 24  92
+/delay OFF   0.3
+/gate ON GATE -47.0 48.0 1  502  983 0
+/gate/filter OFF 3.0 990.9
+/dyn ON COMP PEAK LOG -17.0 5.0 1 0.00 10 10.0  151 POST 0 100 OFF
+/dyn/filter OFF 3.0 990.9
+/eq ON
+/eq/1 PEQ 124.7 -6.25 7.4
+/eq/2 PEQ 240.5 +0.00 6.1
+/eq/3 PEQ 1k49 -1.50 1.0
+/eq/4 PEQ 4k68 -15.0 7.8
+/headamp/035 +37.0 ON

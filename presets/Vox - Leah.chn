@@ -1,0 +1,9 @@
+/gate OFF GATE -80.0 60.0 1  502  983 0
+/gate/filter OFF 3.0 990.9
+/dyn ON COMP PEAK LOG -26.0 7.0 3 4.00 35 10.0  151 POST 0 100 OFF
+/dyn/filter OFF 3.0 990.9
+/eq ON
+/eq/1 PEQ 306.2 -3.75  10
+/eq/2 PEQ 677.7 -3.75 8.2
+/eq/3 VEQ 2k19 +3.00 2.9
+/eq/4 HShv 7k34 +0.75 2.0
