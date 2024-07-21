@@ -241,7 +241,7 @@
 /ch/07/eq/2 VEQ 69.3 -4.75 5.5
 /ch/07/eq/3 VEQ 677.7 +0.00 2.0
 /ch/07/eq/4 HCut 3k31 -15.0 2.0
-/ch/07/mix ON  -7.0 ON +4 OFF   -oo
+/ch/07/mix ON  -3.6 ON +4 OFF   -oo
 /ch/07/mix/01 ON   -oo +0 EQ-> 0
 /ch/07/mix/02 ON   -oo
 /ch/07/mix/03 ON   -oo +0 EQ-> 0
@@ -2034,7 +2034,7 @@
 /headamp/043 +38.0 OFF
 /headamp/044 +38.5 ON
 /headamp/045 +49.0 ON
-/headamp/046 +22.5 OFF
+/headamp/046 +18.0 OFF
 /headamp/047 +35.5 ON
 /headamp/048 +3.0 ON
 /headamp/049 +12.0 OFF
