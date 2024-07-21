@@ -557,11 +557,11 @@
 /ch/17/dyn/filter OFF 3.0 990.9
 /ch/17/insert OFF POST OFF
 /ch/17/eq ON
-/ch/17/eq/1 LShv 67.0 +5.75 3.9
+/ch/17/eq/1 LShv 67.0 -1.00 3.9
 /ch/17/eq/2 PEQ 124.7 +8.75 1.9
-/ch/17/eq/3 PEQ 1k35 +6.75 2.0
-/ch/17/eq/4 PEQ 6k18 +5.25 3.1
-/ch/17/mix ON  -4.8 ON +0 OFF   -oo
+/ch/17/eq/3 PEQ 1k35 +8.50 2.0
+/ch/17/eq/4 PEQ 6k18 +4.00 3.1
+/ch/17/mix ON  +1.5 ON +0 OFF   -oo
 /ch/17/mix/01 ON   -oo +0 EQ-> 0
 /ch/17/mix/02 ON   -oo
 /ch/17/mix/03 ON  -2.5 +0 EQ-> 0
