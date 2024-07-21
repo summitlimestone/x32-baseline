@@ -1137,7 +1137,7 @@
 /auxin/03/grp %00000000 %000000
 /auxin/04/config "Slides R" 1 WHi 30
 /auxin/04/preamp +0.0 OFF
-/auxin/04/eq ON
+/auxin/04/eq OFF
 /auxin/04/eq/1 PEQ 124.7 +0.00 3.9
 /auxin/04/eq/2 PEQ 496.6 +0.00 2.0
 /auxin/04/eq/3 VEQ 1k97 +0.75 2.0
