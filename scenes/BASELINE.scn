@@ -23,13 +23,13 @@
 /config/routing/PLAY CARD1-8 CARD9-16 CARD17-24 CARD25-32 AUX1-4
 /config/userctrl/A GN
 /config/userctrl/A/enc "F40" "F42" "F36" "F34"
-/config/userctrl/A/btn "O40" "O42" "O36" "O34" "P0051" "X101" "P3600" "T6"
+/config/userctrl/A/btn "O40" "O42" "O36" "O34" "P0051" "P0052" "P3600" "T6"
 /config/userctrl/B CY
 /config/userctrl/B/enc "F40" "X101" "F44" "F46"
 /config/userctrl/B/btn "O40" "O42" "O44" "O46" "P0051" "P0052" "P0053" "P0054"
-/config/userctrl/C YE
-/config/userctrl/C/enc "" "" "-" "-"
-/config/userctrl/C/btn "-" "-" "-" "-" "-" "-" "-" ""
+/config/userctrl/C GN
+/config/userctrl/C/enc "F40" "F42" "F36" "F34"
+/config/userctrl/C/btn "O40" "O42" "O36" "O34" "P0051" "X101" "P3600" "T6"
 /config/tape 0.5 0.0 ON
 /config/amixenable ON ON
 /config/dp48 %0000 0 AESA
