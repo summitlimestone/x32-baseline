@@ -1,7 +1,5 @@
 /preamp +0.0 OFF ON 24  36
 /delay OFF   0.3
-/gate ON GATE -53.5 60.0 1  502  983 0
-/gate/filter OFF 3.0 990.9
 /dyn ON COMP PEAK LOG -12.0 2.5 1 0.00 10 10.0  151 POST 0 100 OFF
 /dyn/filter OFF 3.0 990.9
 /eq ON
