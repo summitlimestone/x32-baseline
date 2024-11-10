@@ -604,8 +604,8 @@
 /ch/18/mix/08 ON   -oo
 /ch/18/mix/09 ON   -oo +0 POST 0
 /ch/18/mix/10 ON   -oo
-/ch/18/mix/11 ON  -3.5 +0 POST 0
-/ch/18/mix/12 ON  -3.5
+/ch/18/mix/11 ON  -2.0 +0 POST 0
+/ch/18/mix/12 ON  -2.0
 /ch/18/mix/13 ON   -oo +0 POST 0
 /ch/18/mix/14 ON   -oo
 /ch/18/mix/15 ON   -oo +0 POST 0
@@ -625,7 +625,7 @@
 /ch/19/eq/2 PEQ 463.5 -2.75 3.4
 /ch/19/eq/3 PEQ 1k97 +0.00 2.0
 /ch/19/eq/4 HShv 6k18 -4.00 2.0
-/ch/19/mix ON  -7.2 ON +0 OFF   -oo
+/ch/19/mix ON  -5.3 ON +0 OFF   -oo
 /ch/19/mix/01 ON   -oo +0 EQ-> 0
 /ch/19/mix/02 ON   -oo
 /ch/19/mix/03 ON  -8.5 +0 EQ-> 0
@@ -2039,10 +2039,10 @@
 /headamp/048 -0.5 ON
 /headamp/049 +12.0 OFF
 /headamp/050 +19.0 OFF
-/headamp/051 +18.5 OFF
-/headamp/052 +26.5 OFF
+/headamp/051 +15.5 OFF
+/headamp/052 +19.5 OFF
 /headamp/053 +16.5 ON
-/headamp/054 +18.0 ON
+/headamp/054 +16.0 ON
 /headamp/055 +44.0 OFF
 /headamp/056 +24.5 OFF
 /headamp/057 +19.5 OFF
