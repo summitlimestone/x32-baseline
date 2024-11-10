@@ -32,8 +32,9 @@
 /config/userctrl/C/btn "O40" "O42" "O36" "O34" "P0051" "X101" "P3600" "T6"
 /config/tape 0.5 0.0 ON
 /config/amixenable ON ON
-/config/dp48 %0000 0
+/config/dp48 %0000 0 AESA
 /config/dp48/assign 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+/config/dp48/link 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 0 0 0 0 1 0 0 0
 /config/dp48/grpname "" "" "" "" "" "" "" "" "" "" "" ""
 /ch/01/config "Synth L" 1 BL 5
 /ch/01/delay OFF   0.3
