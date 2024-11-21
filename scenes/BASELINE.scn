@@ -196,10 +196,10 @@
 /ch/05/mix/16 ON   -oo
 /ch/05/grp %00100001 %000000
 /ch/05/automix OFF  +0.0
+/ch/06/config "Elec 2" 1 YE 13
 /ch/06/delay OFF   0.5
 /ch/06/preamp +0.0 OFF ON 24  92
 /ch/06/gate ON GATE -47.0 60.0 1  502  983 0
-/ch/06/config "Elec 2" 1 YE 13
 /ch/06/gate/filter OFF 3.0 990.9
 /ch/06/dyn ON COMP PEAK LOG -14.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /ch/06/dyn/filter OFF 3.0 990.9
@@ -388,7 +388,7 @@
 /ch/11/mix/16 ON -81.0
 /ch/11/grp %00000010 %000000
 /ch/11/automix OFF  +0.0
-/ch/12/config "Left Vox" 1 WHi 9
+/ch/12/config "Vox L" 1 WHi 9
 /ch/12/delay OFF   0.3
 /ch/12/preamp +0.0 OFF ON 24  84
 /ch/12/gate ON GATE -70.0 60.0 1  502  983 0
@@ -484,7 +484,7 @@
 /ch/14/mix/16 ON   -oo
 /ch/14/grp %00000010 %000000
 /ch/14/automix OFF  +0.0
-/ch/15/config "Vox R" 1 WH 16
+/ch/15/config "Vox R" 1 WHi 16
 /ch/15/delay OFF   0.3
 /ch/15/preamp +0.0 OFF ON 24 124
 /ch/15/gate ON GATE -60.0 60.0 1  502  983 0
