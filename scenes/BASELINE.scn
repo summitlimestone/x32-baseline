@@ -356,7 +356,7 @@
 /ch/10/mix/16 ON   -oo
 /ch/10/grp %00000000 %000000
 /ch/10/automix OFF  +0.0
-/ch/11/config "" 1 WH 0
+/ch/11/config "Wx Blue" 1 WH 25
 /ch/11/delay OFF   0.3
 /ch/11/preamp +0.0 OFF ON 24  57
 /ch/11/gate ON GATE -80.0 60.0 1  502  983 0
