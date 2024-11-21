@@ -1163,11 +1163,11 @@
 /auxin/05/config "Spotify L" 1 WHi 33
 /auxin/05/preamp +10.0 OFF
 /auxin/05/eq OFF
-/auxin/05/eq/1 LShv 47.4 +1.75 2.0
+/auxin/05/eq/1 LShv 153.5 +5.00 2.0
 /auxin/05/eq/2 PEQ 417.9 +0.00 2.0
-/auxin/05/eq/3 PEQ 1k09 -4.75 1.8
+/auxin/05/eq/3 PEQ 1k09 +0.00 1.8
 /auxin/05/eq/4 HShv 10k02 +0.00 2.0
-/auxin/05/mix ON -22.8 ON -100 OFF   -oo
+/auxin/05/mix ON -16.7 ON -100 OFF   -oo
 /auxin/05/mix/01 ON   -oo -100 PRE 0
 /auxin/05/mix/02 ON   -oo
 /auxin/05/mix/03 ON   -oo -100 PRE 0
@@ -1188,11 +1188,11 @@
 /auxin/06/config "Spotify R" 1 WHi 34
 /auxin/06/preamp +10.0 OFF
 /auxin/06/eq OFF
-/auxin/06/eq/1 LShv 47.4 +1.75 2.0
+/auxin/06/eq/1 LShv 153.5 +5.00 2.0
 /auxin/06/eq/2 PEQ 417.9 +0.00 2.0
-/auxin/06/eq/3 PEQ 1k09 -4.75 1.8
+/auxin/06/eq/3 PEQ 1k09 +0.00 1.8
 /auxin/06/eq/4 HShv 10k02 +0.00 2.0
-/auxin/06/mix ON -22.8 ON +100 OFF   -oo
+/auxin/06/mix ON -16.7 ON +100 OFF   -oo
 /auxin/06/mix/01 ON   -oo +100 PRE 0
 /auxin/06/mix/02 ON   -oo
 /auxin/06/mix/03 ON   -oo +100 PRE 0
