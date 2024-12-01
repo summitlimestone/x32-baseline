@@ -113,7 +113,7 @@
 /ch/03/eq/2 PEQ 496.6 +0.00 2.0
 /ch/03/eq/3 PEQ 2k89 +0.00 0.9
 /ch/03/eq/4 HShv 10k02 +0.00 2.0
-/ch/03/mix OFF   -oo ON +0 OFF   -oo
+/ch/03/mix ON -15.4 ON +0 OFF   -oo
 /ch/03/mix/01 ON   -oo -100 EQ-> 0
 /ch/03/mix/02 ON   -oo
 /ch/03/mix/03 ON   -oo -100 EQ-> 0
@@ -529,7 +529,7 @@
 /ch/16/eq/2 PEQ 328.1 +0.00 4.5
 /ch/16/eq/3 VEQ 5k20 +0.00 3.5
 /ch/16/eq/4 HShv 7k34 +0.00 2.0
-/ch/16/mix OFF  +4.4 ON +0 OFF   -oo
+/ch/16/mix ON -13.6 ON +0 OFF   -oo
 /ch/16/mix/01 ON   -oo +0 EQ-> 0
 /ch/16/mix/02 ON   -oo
 /ch/16/mix/03 ON   -oo +0 EQ-> 0
@@ -1117,7 +1117,7 @@
 /auxin/03/eq/2 PEQ 496.6 +0.00 2.0
 /auxin/03/eq/3 VEQ 1k97 +0.75 2.0
 /auxin/03/eq/4 HShv 8k43 -15.0 2.0
-/auxin/03/mix OFF  -5.8 ON -100 OFF   -oo
+/auxin/03/mix ON -10.4 ON -100 OFF   -oo
 /auxin/03/mix/01 ON   -oo -100 PRE 0
 /auxin/03/mix/02 ON   -oo
 /auxin/03/mix/03 ON   -oo -100 PRE 0
@@ -1142,7 +1142,7 @@
 /auxin/04/eq/2 PEQ 496.6 +0.00 2.0
 /auxin/04/eq/3 VEQ 1k97 +0.75 2.0
 /auxin/04/eq/4 HShv 8k43 -15.0 2.0
-/auxin/04/mix OFF  -5.8 ON +100 OFF   -oo
+/auxin/04/mix ON -10.4 ON +100 OFF   -oo
 /auxin/04/mix/01 ON   -oo +100 PRE 0
 /auxin/04/mix/02 ON   -oo
 /auxin/04/mix/03 ON   -oo +100 PRE 0
@@ -1167,7 +1167,7 @@
 /auxin/05/eq/2 PEQ 417.9 +0.00 2.0
 /auxin/05/eq/3 PEQ 1k09 +0.00 1.8
 /auxin/05/eq/4 HShv 10k02 +0.00 2.0
-/auxin/05/mix OFF   -oo ON -100 OFF   -oo
+/auxin/05/mix ON -17.8 ON -100 OFF   -oo
 /auxin/05/mix/01 ON   -oo -100 PRE 0
 /auxin/05/mix/02 ON   -oo
 /auxin/05/mix/03 ON   -oo -100 PRE 0
@@ -1192,7 +1192,7 @@
 /auxin/06/eq/2 PEQ 417.9 +0.00 2.0
 /auxin/06/eq/3 PEQ 1k09 +0.00 1.8
 /auxin/06/eq/4 HShv 10k02 +0.00 2.0
-/auxin/06/mix OFF   -oo ON +100 OFF   -oo
+/auxin/06/mix ON -17.8 ON +100 OFF   -oo
 /auxin/06/mix/01 ON   -oo +100 PRE 0
 /auxin/06/mix/02 ON   -oo
 /auxin/06/mix/03 ON   -oo +100 PRE 0
