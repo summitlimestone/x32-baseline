@@ -529,7 +529,7 @@
 /ch/16/eq/2 PEQ 328.1 +0.00 4.5
 /ch/16/eq/3 VEQ 5k20 +0.00 3.5
 /ch/16/eq/4 HShv 7k34 +0.00 2.0
-/ch/16/mix ON -13.6 ON +0 OFF   -oo
+/ch/16/mix OFF  +2.6 ON +0 OFF   -oo
 /ch/16/mix/01 ON   -oo +0 EQ-> 0
 /ch/16/mix/02 ON   -oo
 /ch/16/mix/03 ON   -oo +0 EQ-> 0
@@ -2031,7 +2031,7 @@
 /headamp/040 +37.0 OFF
 /headamp/041 +46.5 ON
 /headamp/042 +38.5 OFF
-/headamp/043 +38.0 OFF
+/headamp/043 +41.5 OFF
 /headamp/044 +45.5 ON
 /headamp/045 +49.0 ON
 /headamp/046 +13.5 OFF
