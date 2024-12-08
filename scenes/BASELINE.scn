@@ -1878,9 +1878,9 @@
 /main/m/mix/05 ON   -oo +0 POST 0
 /main/m/mix/06 ON   -oo
 /main/m/grp %00000000 %000000
-/dca/1 ON  -1.7
+/dca/1 OFF  -1.7
 /dca/1/config "Band" 1 MG
-/dca/2 ON  -4.0
+/dca/2 OFF  -4.0
 /dca/2/config "Vocal" 1 WH
 /dca/3 ON  -2.2
 /dca/3/config "DRUMS" 1 CY
