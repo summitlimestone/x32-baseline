@@ -196,7 +196,7 @@
 /ch/05/mix/16 ON   -oo
 /ch/05/grp %00100001 %000000
 /ch/05/automix OFF  +0.0
-/ch/06/config "Mando" 1 GN 8
+/ch/06/config "Elec 2" 1 YE 13
 /ch/06/delay OFF   0.5
 /ch/06/preamp +0.0 OFF ON 24  92
 /ch/06/gate ON GATE -47.0 60.0 1  502  983 0
@@ -226,7 +226,7 @@
 /ch/06/mix/14 ON   -oo
 /ch/06/mix/15 ON   -oo +0 POST 0
 /ch/06/mix/16 ON   -oo
-/ch/06/grp %01000001 %000000
+/ch/06/grp %00100001 %000000
 /ch/06/automix OFF  +0.0
 /ch/07/config "Bass" 1 RD 15
 /ch/07/delay OFF   0.3
