@@ -1,5 +1,5 @@
 #4.0# "BASELINE" "" %000000000 1                                                                                               
-/config/chlink ON OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
+/config/chlink OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF OFF
 /config/auxlink ON ON ON ON
 /config/fxlink ON ON ON ON
 /config/buslink OFF ON OFF OFF OFF ON OFF OFF
@@ -13,7 +13,7 @@
 /config/talk/B   0.0 OFF OFF %000000000000000010
 /config/osc   -oo 5k32 2k37 F1 SINE 18
 /config/userrout/out 201 202 5 6 161 162 183 184 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-/config/userrout/in 64 0 0 0 5 6 7 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+/config/userrout/in 64 0 0 0 5 6 129 130 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 /config/routing REC
 /config/routing/IN A1-8 A9-16 A17-24 UIN1-8 AUX1-4
 /config/routing/AES50A OUT1-8 OUT9-16 OUT1-8 OUT9-16 P161-8 P169-16
@@ -36,7 +36,7 @@
 /config/dp48/assign 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 /config/dp48/link 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 0 0 0 0 1 0 0 0
 /config/dp48/grpname "" "" "" "" "" "" "" "" "" "" "" ""
-/ch/01/config "Synth L" 1 BL 5
+/ch/01/config "Synth" 1 BL 6
 /ch/01/delay OFF   0.3
 /ch/01/preamp +0.0 OFF ON 24 173
 /ch/01/gate ON GATE -70.0 60.0 1  502  983 0
@@ -49,26 +49,26 @@
 /ch/01/eq/2 PEQ 496.6 +0.00 2.0
 /ch/01/eq/3 PEQ 2k89 -3.75 0.9
 /ch/01/eq/4 HShv 10k02 +0.00 2.0
-/ch/01/mix ON -13.4 ON -100 OFF   -oo
-/ch/01/mix/01 ON   -oo -100 EQ-> 0
+/ch/01/mix ON -13.4 ON +0 OFF   -oo
+/ch/01/mix/01 ON   -oo +0 EQ-> 0
 /ch/01/mix/02 ON   -oo
-/ch/01/mix/03 ON   -oo -100 EQ-> 0
+/ch/01/mix/03 ON   -oo +0 EQ-> 0
 /ch/01/mix/04 ON   -oo
-/ch/01/mix/05 ON   -oo -100 <-EQ 0
+/ch/01/mix/05 ON   -oo +0 <-EQ 0
 /ch/01/mix/06 ON   0.0
-/ch/01/mix/07 ON   -oo -100 EQ-> 0
+/ch/01/mix/07 ON   -oo +0 EQ-> 0
 /ch/01/mix/08 ON   -oo
-/ch/01/mix/09 ON   -oo -100 POST 0
+/ch/01/mix/09 ON   -oo +0 POST 0
 /ch/01/mix/10 ON   -oo
-/ch/01/mix/11 ON  -9.3 -100 POST 0
+/ch/01/mix/11 ON  -9.3 +0 POST 0
 /ch/01/mix/12 ON  -9.3
-/ch/01/mix/13 ON   -oo -100 POST 0
+/ch/01/mix/13 ON   -oo +0 POST 0
 /ch/01/mix/14 ON   -oo
-/ch/01/mix/15 ON -87.0 -100 POST 0
+/ch/01/mix/15 ON -87.0 +0 POST 0
 /ch/01/mix/16 ON   -oo
 /ch/01/grp %00001001 %000000
 /ch/01/automix OFF  +0.0
-/ch/02/config "Synth R" 1 BL 6
+/ch/02/config "Synth R" 1 BL 0
 /ch/02/delay OFF   0.3
 /ch/02/preamp +0.0 OFF ON 24 173
 /ch/02/gate ON GATE -70.0 60.0 1  502  983 0
@@ -81,22 +81,22 @@
 /ch/02/eq/2 PEQ 496.6 +0.00 2.0
 /ch/02/eq/3 PEQ 2k89 -3.75 0.9
 /ch/02/eq/4 HShv 10k02 +0.00 2.0
-/ch/02/mix ON -13.4 ON +100 OFF   -oo
-/ch/02/mix/01 ON   -oo +100 EQ-> 0
+/ch/02/mix OFF   -oo ON +0 OFF   -oo
+/ch/02/mix/01 ON   -oo +0 EQ-> 0
 /ch/02/mix/02 ON   -oo
-/ch/02/mix/03 ON   -oo +100 EQ-> 0
+/ch/02/mix/03 ON   -oo +0 EQ-> 0
 /ch/02/mix/04 ON   -oo
-/ch/02/mix/05 ON   -oo +100 <-EQ 0
+/ch/02/mix/05 ON   -oo +0 <-EQ 0
 /ch/02/mix/06 ON   0.0
-/ch/02/mix/07 ON   -oo +100 EQ-> 0
+/ch/02/mix/07 ON   -oo +0 EQ-> 0
 /ch/02/mix/08 ON   -oo
-/ch/02/mix/09 ON   -oo +100 POST 0
+/ch/02/mix/09 ON   -oo +0 POST 0
 /ch/02/mix/10 ON   -oo
-/ch/02/mix/11 ON  -9.3 +100 POST 0
+/ch/02/mix/11 ON  -9.3 +0 POST 0
 /ch/02/mix/12 ON  -9.3
-/ch/02/mix/13 ON   -oo +100 POST 0
+/ch/02/mix/13 ON   -oo +0 POST 0
 /ch/02/mix/14 ON   -oo
-/ch/02/mix/15 ON -87.0 +100 POST 0
+/ch/02/mix/15 ON -87.0 +0 POST 0
 /ch/02/mix/16 ON   -oo
 /ch/02/grp %00001001 %000000
 /ch/02/automix OFF  +0.0
@@ -1160,7 +1160,7 @@
 /auxin/04/mix/15 ON   -oo +100 POST 0
 /auxin/04/mix/16 ON   -oo
 /auxin/04/grp %00000000 %000000
-/auxin/05/config "Spotify L" 1 WHi 33
+/auxin/05/config "Spotify L" 1 WHi 31
 /auxin/05/preamp +10.0 OFF
 /auxin/05/eq OFF
 /auxin/05/eq/1 LShv 153.5 +5.00 2.0
@@ -1185,7 +1185,7 @@
 /auxin/05/mix/15 ON   -oo -100 POST 0
 /auxin/05/mix/16 ON   -oo
 /auxin/05/grp %00000000 %000000
-/auxin/06/config "Spotify R" 1 WHi 34
+/auxin/06/config "Spotify R" 1 WHi 32
 /auxin/06/preamp +10.0 OFF
 /auxin/06/eq OFF
 /auxin/06/eq/1 LShv 153.5 +5.00 2.0
