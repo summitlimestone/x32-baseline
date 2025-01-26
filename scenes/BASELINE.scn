@@ -59,8 +59,8 @@
 /ch/01/mix/08 ON   -oo
 /ch/01/mix/09 ON   -oo +0 POST 0
 /ch/01/mix/10 ON   -oo
-/ch/01/mix/11 ON  -9.3 +0 POST 0
-/ch/01/mix/12 ON  -9.3
+/ch/01/mix/11 ON -22.5 +0 PRE 0
+/ch/01/mix/12 ON -22.5
 /ch/01/mix/13 ON   -oo +0 POST 0
 /ch/01/mix/14 ON   -oo
 /ch/01/mix/15 ON -87.0 +0 POST 0
@@ -91,8 +91,8 @@
 /ch/02/mix/08 ON   -oo
 /ch/02/mix/09 ON   -oo +0 POST 0
 /ch/02/mix/10 ON   -oo
-/ch/02/mix/11 ON  -9.3 +0 POST 0
-/ch/02/mix/12 ON  -9.3
+/ch/02/mix/11 ON   -oo +0 PRE 0
+/ch/02/mix/12 ON   -oo
 /ch/02/mix/13 ON   -oo +0 POST 0
 /ch/02/mix/14 ON   -oo
 /ch/02/mix/15 ON -87.0 +0 POST 0
@@ -123,8 +123,8 @@
 /ch/03/mix/08 ON   -oo
 /ch/03/mix/09 ON   -oo -100 POST 0
 /ch/03/mix/10 ON   -oo
-/ch/03/mix/11 ON  -6.8 +0 POST 0
-/ch/03/mix/12 ON  -6.8
+/ch/03/mix/11 ON -22.0 +0 PRE 0
+/ch/03/mix/12 ON -22.0
 /ch/03/mix/13 ON   -oo -100 POST 0
 /ch/03/mix/14 ON   -oo
 /ch/03/mix/15 ON  -9.3 -100 POST 0
@@ -155,8 +155,8 @@
 /ch/04/mix/08 ON   -oo
 /ch/04/mix/09 ON   -oo +0 POST 0
 /ch/04/mix/10 ON   -oo
-/ch/04/mix/11 ON  -5.5 +0 POST 0
-/ch/04/mix/12 ON  -5.5
+/ch/04/mix/11 ON  -3.5 +0 PRE 0
+/ch/04/mix/12 ON  -3.5
 /ch/04/mix/13 ON   -oo +0 POST 0
 /ch/04/mix/14 ON   -oo
 /ch/04/mix/15 ON  +0.3 +0 POST 0
@@ -187,8 +187,8 @@
 /ch/05/mix/08 ON   -oo
 /ch/05/mix/09 ON   -oo +0 POST 0
 /ch/05/mix/10 ON   -oo
-/ch/05/mix/11 ON  -6.3 +0 POST 0
-/ch/05/mix/12 ON  -6.3
+/ch/05/mix/11 ON -11.0 +0 PRE 0
+/ch/05/mix/12 ON -11.0
 /ch/05/mix/13 ON   -oo +0 POST 0
 /ch/05/mix/14 ON   -oo
 /ch/05/mix/15 ON   -oo +0 POST 0
@@ -219,8 +219,8 @@
 /ch/06/mix/08 ON   -oo
 /ch/06/mix/09 ON -58.0 +0 POST 0
 /ch/06/mix/10 ON   -oo
-/ch/06/mix/11 ON -11.5 +0 POST 0
-/ch/06/mix/12 ON -11.5
+/ch/06/mix/11 ON -13.5 +0 PRE 0
+/ch/06/mix/12 ON -13.5
 /ch/06/mix/13 ON   -oo +0 POST 0
 /ch/06/mix/14 ON   -oo
 /ch/06/mix/15 ON   -oo +0 POST 0
@@ -251,8 +251,8 @@
 /ch/07/mix/08 ON   -oo
 /ch/07/mix/09 ON   -oo +0 POST 0
 /ch/07/mix/10 ON   -oo
-/ch/07/mix/11 ON  -8.0 +0 POST 0
-/ch/07/mix/12 ON  -8.0
+/ch/07/mix/11 ON -10.5 +0 PRE 0
+/ch/07/mix/12 ON -10.5
 /ch/07/mix/13 ON   -oo +0 POST 0
 /ch/07/mix/14 ON   -oo
 /ch/07/mix/15 ON   -oo +0 POST 0
@@ -283,8 +283,8 @@
 /ch/08/mix/08 ON   -oo
 /ch/08/mix/09 ON   -oo +0 POST 0
 /ch/08/mix/10 ON   -oo
-/ch/08/mix/11 ON  -9.3 +0 POST 0
-/ch/08/mix/12 ON  -9.3
+/ch/08/mix/11 ON -41.0 +0 PRE 0
+/ch/08/mix/12 ON -41.0
 /ch/08/mix/13 ON   -oo +0 POST 0
 /ch/08/mix/14 ON   -oo
 /ch/08/mix/15 ON   -oo +0 POST 0
@@ -315,8 +315,8 @@
 /ch/09/mix/08 ON   -oo
 /ch/09/mix/09 ON   -oo +0 POST 0
 /ch/09/mix/10 ON   -oo
-/ch/09/mix/11 ON  -5.0 +0 POST 0
-/ch/09/mix/12 ON  -5.0
+/ch/09/mix/11 ON   -oo +0 PRE 0
+/ch/09/mix/12 ON   -oo
 /ch/09/mix/13 ON   -oo +0 POST 0
 /ch/09/mix/14 ON   -oo
 /ch/09/mix/15 ON   -oo +0 POST 0
@@ -347,8 +347,8 @@
 /ch/10/mix/08 ON   -oo
 /ch/10/mix/09 ON   -oo +0 POST 0
 /ch/10/mix/10 ON   -oo
-/ch/10/mix/11 ON  -9.3 +0 POST 0
-/ch/10/mix/12 ON  -9.3
+/ch/10/mix/11 ON   -oo +0 PRE 0
+/ch/10/mix/12 ON   -oo
 /ch/10/mix/13 ON   -oo +0 POST 0
 /ch/10/mix/14 ON   -oo
 /ch/10/mix/15 ON   -oo +0 POST 0
@@ -379,8 +379,8 @@
 /ch/11/mix/08 ON   -oo
 /ch/11/mix/09 ON   -oo +0 POST 0
 /ch/11/mix/10 ON   -oo
-/ch/11/mix/11 ON  -7.3 +0 POST 0
-/ch/11/mix/12 ON  -7.3
+/ch/11/mix/11 ON -13.0 +0 PRE 0
+/ch/11/mix/12 ON -13.0
 /ch/11/mix/13 ON  +1.3 +0 POST 0
 /ch/11/mix/14 ON  +0.8
 /ch/11/mix/15 ON   -oo +0 POST 0
@@ -411,8 +411,8 @@
 /ch/12/mix/08 ON   -oo
 /ch/12/mix/09 ON   -oo +0 POST 0
 /ch/12/mix/10 ON   -oo
-/ch/12/mix/11 ON  -6.8 +0 POST 0
-/ch/12/mix/12 ON  -6.8
+/ch/12/mix/11 ON  -9.8 +0 PRE 0
+/ch/12/mix/12 ON  -9.8
 /ch/12/mix/13 ON  +0.5 +0 POST 0
 /ch/12/mix/14 ON  -0.3
 /ch/12/mix/15 ON   -oo +0 POST 0
@@ -443,8 +443,8 @@
 /ch/13/mix/08 ON   -oo
 /ch/13/mix/09 ON   -oo +0 POST 0
 /ch/13/mix/10 ON   -oo
-/ch/13/mix/11 ON  -6.5 +0 POST 0
-/ch/13/mix/12 ON  -6.5
+/ch/13/mix/11 ON -10.0 +0 PRE 0
+/ch/13/mix/12 ON -10.0
 /ch/13/mix/13 ON  +1.3 +0 POST 0
 /ch/13/mix/14 ON  +0.8
 /ch/13/mix/15 ON   -oo +0 POST 0
@@ -475,8 +475,8 @@
 /ch/14/mix/08 ON   -oo
 /ch/14/mix/09 ON -58.0 +0 POST 0
 /ch/14/mix/10 ON   -oo
-/ch/14/mix/11 ON  -6.8 +0 POST 0
-/ch/14/mix/12 ON  -6.8
+/ch/14/mix/11 ON  -1.5 +0 PRE 0
+/ch/14/mix/12 ON  -1.5
 /ch/14/mix/13 ON  +0.8 +0 POST 0
 /ch/14/mix/14 ON  +0.5
 /ch/14/mix/15 ON   -oo +0 POST 0
@@ -507,8 +507,8 @@
 /ch/15/mix/08 ON   -oo
 /ch/15/mix/09 ON   -oo +0 POST 0
 /ch/15/mix/10 ON   -oo
-/ch/15/mix/11 ON  -6.8 +0 POST 0
-/ch/15/mix/12 ON  -6.8
+/ch/15/mix/11 ON  -8.8 +0 PRE 0
+/ch/15/mix/12 ON  -8.8
 /ch/15/mix/13 ON   0.0 +0 POST 0
 /ch/15/mix/14 ON  -0.3
 /ch/15/mix/15 ON   -oo +0 POST 0
@@ -539,8 +539,8 @@
 /ch/16/mix/08 ON   -oo
 /ch/16/mix/09 ON  -5.3 +0 POST 0
 /ch/16/mix/10 ON   -oo
-/ch/16/mix/11 ON  -2.0 +0 POST 0
-/ch/16/mix/12 ON  -2.0
+/ch/16/mix/11 ON  +0.5 +0 PRE 0
+/ch/16/mix/12 ON  +0.5
 /ch/16/mix/13 ON   -oo +0 POST 0
 /ch/16/mix/14 ON   -oo
 /ch/16/mix/15 ON   -oo +0 POST 0
@@ -571,8 +571,8 @@
 /ch/17/mix/08 ON   -oo
 /ch/17/mix/09 ON   -oo +0 POST 0
 /ch/17/mix/10 ON   -oo
-/ch/17/mix/11 ON  -5.3 +0 POST 0
-/ch/17/mix/12 ON  -5.3
+/ch/17/mix/11 ON  -8.8 +0 PRE 0
+/ch/17/mix/12 ON  -8.8
 /ch/17/mix/13 ON   -oo +0 POST 0
 /ch/17/mix/14 ON   -oo
 /ch/17/mix/15 ON   -oo +0 POST 0
@@ -603,8 +603,8 @@
 /ch/18/mix/08 ON   -oo
 /ch/18/mix/09 ON   -oo +0 POST 0
 /ch/18/mix/10 ON   -oo
-/ch/18/mix/11 ON  -6.5 +0 POST 0
-/ch/18/mix/12 ON  -6.5
+/ch/18/mix/11 ON -14.5 +0 PRE 0
+/ch/18/mix/12 ON -14.5
 /ch/18/mix/13 ON   -oo +0 POST 0
 /ch/18/mix/14 ON   -oo
 /ch/18/mix/15 ON   -oo +0 POST 0
@@ -635,8 +635,8 @@
 /ch/19/mix/08 ON   -oo
 /ch/19/mix/09 ON   -oo +0 POST 0
 /ch/19/mix/10 ON   -oo
-/ch/19/mix/11 ON  -8.5 +0 POST 0
-/ch/19/mix/12 ON  -8.5
+/ch/19/mix/11 ON -14.0 +0 PRE 0
+/ch/19/mix/12 ON -14.0
 /ch/19/mix/13 ON   -oo +0 POST 0
 /ch/19/mix/14 ON   -oo
 /ch/19/mix/15 ON   -oo +0 POST 0
@@ -667,8 +667,8 @@
 /ch/20/mix/08 ON   -oo
 /ch/20/mix/09 ON   -oo +0 POST 0
 /ch/20/mix/10 ON   -oo
-/ch/20/mix/11 ON  -8.5 +0 POST 0
-/ch/20/mix/12 ON  -8.5
+/ch/20/mix/11 ON -15.0 +0 PRE 0
+/ch/20/mix/12 ON -15.0
 /ch/20/mix/13 ON   -oo +0 POST 0
 /ch/20/mix/14 ON   -oo
 /ch/20/mix/15 ON   -oo +0 POST 0
@@ -699,8 +699,8 @@
 /ch/21/mix/08 ON   -oo
 /ch/21/mix/09 ON   -oo +0 POST 0
 /ch/21/mix/10 ON   -oo
-/ch/21/mix/11 ON  -8.5 +0 POST 0
-/ch/21/mix/12 ON  -8.5
+/ch/21/mix/11 ON -15.5 +0 PRE 0
+/ch/21/mix/12 ON -15.5
 /ch/21/mix/13 ON   -oo +0 POST 0
 /ch/21/mix/14 ON   -oo
 /ch/21/mix/15 ON   -oo +0 POST 0
@@ -731,8 +731,8 @@
 /ch/22/mix/08 ON   -oo
 /ch/22/mix/09 ON   -oo +0 POST 0
 /ch/22/mix/10 ON   -oo
-/ch/22/mix/11 ON  -9.0 +0 POST 0
-/ch/22/mix/12 ON  -9.0
+/ch/22/mix/11 ON -26.0 +0 PRE 0
+/ch/22/mix/12 ON -26.0
 /ch/22/mix/13 ON   -oo +0 POST 0
 /ch/22/mix/14 ON   -oo
 /ch/22/mix/15 ON   -oo +0 POST 0
@@ -763,8 +763,8 @@
 /ch/23/mix/08 ON   -oo
 /ch/23/mix/09 ON   -oo +0 POST 0
 /ch/23/mix/10 ON   -oo
-/ch/23/mix/11 ON  -9.5 +0 POST 0
-/ch/23/mix/12 ON  -9.5
+/ch/23/mix/11 ON -26.5 +0 PRE 0
+/ch/23/mix/12 ON -26.5
 /ch/23/mix/13 ON   -oo +0 POST 0
 /ch/23/mix/14 ON   -oo
 /ch/23/mix/15 ON   -oo +0 POST 0
@@ -795,7 +795,7 @@
 /ch/24/mix/08 ON   -oo
 /ch/24/mix/09 ON   -oo +0 POST 0
 /ch/24/mix/10 ON   -oo
-/ch/24/mix/11 OFF   -oo +0 POST 0
+/ch/24/mix/11 OFF   -oo +0 PRE 0
 /ch/24/mix/12 OFF   -oo
 /ch/24/mix/13 ON   -oo +0 POST 0
 /ch/24/mix/14 ON   -oo
@@ -827,7 +827,7 @@
 /ch/25/mix/08 ON   -oo
 /ch/25/mix/09 ON   -oo +0 POST 0
 /ch/25/mix/10 ON   -oo
-/ch/25/mix/11 OFF   -oo +0 POST 0
+/ch/25/mix/11 OFF   -oo +0 PRE 0
 /ch/25/mix/12 OFF   -oo
 /ch/25/mix/13 ON   -oo +0 POST 0
 /ch/25/mix/14 ON   -oo
@@ -859,7 +859,7 @@
 /ch/26/mix/08 ON   -oo
 /ch/26/mix/09 ON   -oo +0 POST 0
 /ch/26/mix/10 ON   -oo
-/ch/26/mix/11 OFF   -oo +0 POST 0
+/ch/26/mix/11 OFF   -oo +0 PRE 0
 /ch/26/mix/12 OFF   -oo
 /ch/26/mix/13 ON   -oo +0 POST 0
 /ch/26/mix/14 ON   -oo
@@ -891,7 +891,7 @@
 /ch/27/mix/08 ON   -oo
 /ch/27/mix/09 ON   -oo +0 POST 0
 /ch/27/mix/10 ON   -oo
-/ch/27/mix/11 OFF   -oo +0 POST 0
+/ch/27/mix/11 OFF   -oo +0 PRE 0
 /ch/27/mix/12 OFF   -oo
 /ch/27/mix/13 ON   -oo +0 POST 0
 /ch/27/mix/14 ON   -oo
@@ -923,7 +923,7 @@
 /ch/28/mix/08 ON   -oo
 /ch/28/mix/09 ON   -oo +0 POST 0
 /ch/28/mix/10 ON   -oo
-/ch/28/mix/11 OFF   -oo +0 POST 0
+/ch/28/mix/11 OFF   -oo +0 PRE 0
 /ch/28/mix/12 OFF   -oo
 /ch/28/mix/13 ON   -oo +0 POST 0
 /ch/28/mix/14 ON   -oo
@@ -955,7 +955,7 @@
 /ch/29/mix/08 ON   -oo
 /ch/29/mix/09 ON   -oo +0 POST 0
 /ch/29/mix/10 ON   -oo
-/ch/29/mix/11 OFF   -oo +0 POST 0
+/ch/29/mix/11 OFF   -oo +0 PRE 0
 /ch/29/mix/12 OFF   -oo
 /ch/29/mix/13 ON   -oo +0 POST 0
 /ch/29/mix/14 ON   -oo
@@ -987,7 +987,7 @@
 /ch/30/mix/08 ON   -oo
 /ch/30/mix/09 ON   -oo +0 POST 0
 /ch/30/mix/10 ON   -oo
-/ch/30/mix/11 OFF   -oo +0 POST 0
+/ch/30/mix/11 OFF   -oo +0 PRE 0
 /ch/30/mix/12 OFF   -oo
 /ch/30/mix/13 ON   -oo +0 POST 0
 /ch/30/mix/14 ON   -oo
@@ -1019,7 +1019,7 @@
 /ch/31/mix/08 ON   -oo
 /ch/31/mix/09 ON   -oo +0 POST 0
 /ch/31/mix/10 ON   -oo
-/ch/31/mix/11 OFF   -oo +0 POST 0
+/ch/31/mix/11 OFF   -oo +0 PRE 0
 /ch/31/mix/12 OFF   -oo
 /ch/31/mix/13 ON   -oo +0 POST 0
 /ch/31/mix/14 ON   -oo
@@ -1051,7 +1051,7 @@
 /ch/32/mix/08 ON   -oo
 /ch/32/mix/09 ON   -oo +0 POST 0
 /ch/32/mix/10 ON   -oo
-/ch/32/mix/11 OFF   -oo +0 POST 0
+/ch/32/mix/11 OFF   -oo +0 PRE 0
 /ch/32/mix/12 OFF   -oo
 /ch/32/mix/13 ON   -oo +0 POST 0
 /ch/32/mix/14 ON   -oo
@@ -1077,8 +1077,8 @@
 /auxin/01/mix/08 ON   -oo
 /auxin/01/mix/09 ON   -oo -100 POST 0
 /auxin/01/mix/10 ON   -oo
-/auxin/01/mix/11 ON -11.5 -100 POST 0
-/auxin/01/mix/12 ON -11.5
+/auxin/01/mix/11 ON   -oo -100 PRE 0
+/auxin/01/mix/12 ON   -oo
 /auxin/01/mix/13 ON   -oo -100 POST 0
 /auxin/01/mix/14 ON   -oo
 /auxin/01/mix/15 ON   -oo -100 POST 0
@@ -1102,8 +1102,8 @@
 /auxin/02/mix/08 ON   -oo
 /auxin/02/mix/09 ON   -oo +100 POST 0
 /auxin/02/mix/10 ON   -oo
-/auxin/02/mix/11 ON -11.5 +100 POST 0
-/auxin/02/mix/12 ON -11.5
+/auxin/02/mix/11 ON   -oo +100 PRE 0
+/auxin/02/mix/12 ON   -oo
 /auxin/02/mix/13 ON   -oo +100 POST 0
 /auxin/02/mix/14 ON   -oo
 /auxin/02/mix/15 ON   -oo +100 POST 0
@@ -1127,8 +1127,8 @@
 /auxin/03/mix/08 ON   -oo
 /auxin/03/mix/09 ON   -oo -100 POST 0
 /auxin/03/mix/10 ON   -oo
-/auxin/03/mix/11 ON   0.0 -100 POST 0
-/auxin/03/mix/12 ON   0.0
+/auxin/03/mix/11 ON -13.5 -100 PRE 0
+/auxin/03/mix/12 ON -13.5
 /auxin/03/mix/13 ON   -oo -100 POST 0
 /auxin/03/mix/14 ON   -oo
 /auxin/03/mix/15 ON   -oo -100 POST 0
@@ -1152,8 +1152,8 @@
 /auxin/04/mix/08 ON   -oo
 /auxin/04/mix/09 ON   -oo +100 POST 0
 /auxin/04/mix/10 ON   -oo
-/auxin/04/mix/11 ON  -3.0 +100 POST 0
-/auxin/04/mix/12 ON  -3.0
+/auxin/04/mix/11 ON -13.5 +100 PRE 0
+/auxin/04/mix/12 ON -13.5
 /auxin/04/mix/13 ON   -oo +100 POST 0
 /auxin/04/mix/14 ON   -oo
 /auxin/04/mix/15 ON   -oo +100 POST 0
@@ -1177,7 +1177,7 @@
 /auxin/05/mix/08 ON   -oo
 /auxin/05/mix/09 ON   -oo -100 POST 0
 /auxin/05/mix/10 ON   -oo
-/auxin/05/mix/11 OFF   -oo -100 POST 0
+/auxin/05/mix/11 OFF   -oo -100 PRE 0
 /auxin/05/mix/12 OFF   -oo
 /auxin/05/mix/13 ON   -oo -100 POST 0
 /auxin/05/mix/14 ON   -oo
@@ -1202,7 +1202,7 @@
 /auxin/06/mix/08 ON   -oo
 /auxin/06/mix/09 ON   -oo +100 POST 0
 /auxin/06/mix/10 ON   -oo
-/auxin/06/mix/11 OFF   -oo +100 POST 0
+/auxin/06/mix/11 OFF   -oo +100 PRE 0
 /auxin/06/mix/12 OFF   -oo
 /auxin/06/mix/13 ON   -oo +100 POST 0
 /auxin/06/mix/14 ON   -oo
@@ -1227,8 +1227,8 @@
 /auxin/07/mix/08 ON   -oo
 /auxin/07/mix/09 ON   -oo +0 POST 0
 /auxin/07/mix/10 ON   -oo
-/auxin/07/mix/11 ON -10.5 +0 POST 0
-/auxin/07/mix/12 ON -10.5
+/auxin/07/mix/11 ON   -oo +0 PRE 0
+/auxin/07/mix/12 ON   -oo
 /auxin/07/mix/13 ON   -oo +0 POST 0
 /auxin/07/mix/14 ON   -oo
 /auxin/07/mix/15 ON   -oo +0 POST 0
@@ -1252,8 +1252,8 @@
 /auxin/08/mix/08 ON   -oo
 /auxin/08/mix/09 ON   -oo +0 POST 0
 /auxin/08/mix/10 ON   -oo
-/auxin/08/mix/11 ON -10.5 +0 POST 0
-/auxin/08/mix/12 ON -10.5
+/auxin/08/mix/11 ON   -oo +0 PRE 0
+/auxin/08/mix/12 ON   -oo
 /auxin/08/mix/13 ON   -oo +0 POST 0
 /auxin/08/mix/14 ON   -oo
 /auxin/08/mix/15 ON   -oo +0 POST 0
@@ -1869,7 +1869,6 @@
 /main/m/mix/04 ON   -oo
 /main/m/mix/05 ON   -oo +0 POST 0
 /main/m/mix/06 ON   -oo
-/main/m/grp %00000000 %000000
 /dca/1 OFF  -1.7
 /dca/1/config "Band" 1 MG
 /dca/2 OFF  -4.0
