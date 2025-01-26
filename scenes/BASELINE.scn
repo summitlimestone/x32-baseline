@@ -13,7 +13,7 @@
 /config/talk/B   0.0 OFF OFF %000000000000000010
 /config/osc   -oo 5k32 2k37 F1 SINE 18
 /config/userrout/out 201 202 5 6 161 162 183 184 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-/config/userrout/in 64 0 0 0 5 6 129 130 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+/config/userrout/in 64 0 0 0 5 6 161 162 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 /config/routing REC
 /config/routing/IN A1-8 A9-16 A17-24 UIN1-8 AUX1-4
 /config/routing/AES50A OUT1-8 OUT9-16 OUT1-8 OUT9-16 P161-8 P169-16
@@ -32,9 +32,8 @@
 /config/userctrl/C/btn "O40" "O42" "O36" "O34" "P0051" "X101" "P3600" "T6"
 /config/tape 0.5 0.0 ON
 /config/amixenable ON ON
-/config/dp48 %0000 0 AESA
+/config/dp48 %0000 0
 /config/dp48/assign 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-/config/dp48/link 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 0 0 0 0 1 0 0 0
 /config/dp48/grpname "" "" "" "" "" "" "" "" "" "" "" ""
 /ch/01/config "Synth" 1 BL 6
 /ch/01/delay OFF   0.3
@@ -135,7 +134,7 @@
 /ch/04/config "Acou" 1 GN 3
 /ch/04/delay OFF   0.3
 /ch/04/preamp +0.0 OFF ON 24  64
-/ch/04/gate ON GATE -41.5 60.0 0  502  983 0
+/ch/04/gate ON GATE -60.5 60.0 0  502  983 0
 /ch/04/gate/filter OFF 3.0 990.9
 /ch/04/dyn ON COMP PEAK LOG -8.5 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /ch/04/dyn/filter OFF 3.0 990.9
@@ -1153,21 +1152,21 @@
 /auxin/04/mix/08 ON   -oo
 /auxin/04/mix/09 ON   -oo +100 POST 0
 /auxin/04/mix/10 ON   -oo
-/auxin/04/mix/11 ON   0.0 +100 POST 0
-/auxin/04/mix/12 ON   0.0
+/auxin/04/mix/11 ON  -3.0 +100 POST 0
+/auxin/04/mix/12 ON  -3.0
 /auxin/04/mix/13 ON   -oo +100 POST 0
 /auxin/04/mix/14 ON   -oo
 /auxin/04/mix/15 ON   -oo +100 POST 0
 /auxin/04/mix/16 ON   -oo
 /auxin/04/grp %00000000 %000000
 /auxin/05/config "Spotify L" 1 WHi 31
-/auxin/05/preamp +0.8 OFF
+/auxin/05/preamp +6.3 OFF
 /auxin/05/eq OFF
 /auxin/05/eq/1 LShv 153.5 +5.00 2.0
 /auxin/05/eq/2 PEQ 417.9 +0.00 2.0
 /auxin/05/eq/3 PEQ 1k09 +0.00 1.8
 /auxin/05/eq/4 HShv 10k02 +0.00 2.0
-/auxin/05/mix ON -17.8 ON -100 OFF   -oo
+/auxin/05/mix ON -16.2 ON -100 OFF   -oo
 /auxin/05/mix/01 ON   -oo -100 PRE 0
 /auxin/05/mix/02 ON   -oo
 /auxin/05/mix/03 ON   -oo -100 PRE 0
@@ -1186,13 +1185,13 @@
 /auxin/05/mix/16 ON   -oo
 /auxin/05/grp %00000000 %000000
 /auxin/06/config "Spotify R" 1 WHi 32
-/auxin/06/preamp +0.8 OFF
+/auxin/06/preamp +6.3 OFF
 /auxin/06/eq OFF
 /auxin/06/eq/1 LShv 153.5 +5.00 2.0
 /auxin/06/eq/2 PEQ 417.9 +0.00 2.0
 /auxin/06/eq/3 PEQ 1k09 +0.00 1.8
 /auxin/06/eq/4 HShv 10k02 +0.00 2.0
-/auxin/06/mix ON -17.8 ON +100 OFF   -oo
+/auxin/06/mix ON -16.2 ON +100 OFF   -oo
 /auxin/06/mix/01 ON   -oo +100 PRE 0
 /auxin/06/mix/02 ON   -oo
 /auxin/06/mix/03 ON   -oo +100 PRE 0
@@ -1769,7 +1768,6 @@
 /mtx/01/eq/5 PEQ 5k02 +0.00 2.0
 /mtx/01/eq/6 HShv 10k02 +0.00 2.0
 /mtx/01/mix ON  +1.1
-/mtx/01/grp %00000000 %000000
 /mtx/02/config "To Stream R" 72 RD
 /mtx/02/preamp OFF
 /mtx/02/dyn ON COMP RMS LOG -36.0 3.0 2 6.00 1 10.0   5 POST 100 OFF
@@ -1783,7 +1781,6 @@
 /mtx/02/eq/5 PEQ 5k02 +0.00 2.0
 /mtx/02/eq/6 HShv 10k02 +0.00 2.0
 /mtx/02/mix ON  +1.1
-/mtx/02/grp %00000000 %000000
 /mtx/03/config "" 72 RD
 /mtx/03/preamp OFF
 /mtx/03/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 100 OFF
@@ -1797,7 +1794,6 @@
 /mtx/03/eq/5 PEQ 5k02 +0.00 2.0
 /mtx/03/eq/6 HShv 10k02 +0.00 2.0
 /mtx/03/mix OFF   -oo
-/mtx/03/grp %00000000 %000000
 /mtx/04/config "" 72 RD
 /mtx/04/preamp OFF
 /mtx/04/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 100 OFF
@@ -1811,7 +1807,6 @@
 /mtx/04/eq/5 PEQ 5k02 +0.00 2.0
 /mtx/04/eq/6 HShv 10k02 +0.00 2.0
 /mtx/04/mix OFF   -oo
-/mtx/04/grp %00000000 %000000
 /mtx/05/config "" 72 RD
 /mtx/05/preamp OFF
 /mtx/05/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 100 OFF
@@ -1825,7 +1820,6 @@
 /mtx/05/eq/5 PEQ 5k02 +0.00 2.0
 /mtx/05/eq/6 HShv 10k02 +0.00 2.0
 /mtx/05/mix OFF   -oo
-/mtx/05/grp %00000000 %000000
 /mtx/06/config "" 72 RD
 /mtx/06/preamp OFF
 /mtx/06/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 100 OFF
@@ -1839,7 +1833,6 @@
 /mtx/06/eq/5 PEQ 5k02 +0.00 2.0
 /mtx/06/eq/6 HShv 10k02 +0.00 2.0
 /mtx/06/mix OFF   -oo
-/mtx/06/grp %00000000 %000000
 /main/st/config "" 66 RDi
 /main/st/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  141 POST 100 OFF
 /main/st/dyn/filter OFF 3.0 990.9
@@ -1858,7 +1851,6 @@
 /main/st/mix/04 ON   -oo
 /main/st/mix/05 ON   -oo +0 POST 0
 /main/st/mix/06 ON   -oo
-/main/st/grp %00000000 %000000
 /main/m/config "" 67 WH
 /main/m/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 100 OFF
 /main/m/dyn/filter OFF 3.0 990.9
@@ -1992,8 +1984,8 @@
 /headamp/001 +37.0 OFF
 /headamp/002 +34.0 OFF
 /headamp/003 +37.5 OFF
-/headamp/004 +37.0 OFF
-/headamp/005 +37.0 OFF
+/headamp/004 +47.0 OFF
+/headamp/005 +47.0 OFF
 /headamp/006 +0.0 OFF
 /headamp/007 +0.0 OFF
 /headamp/008 +0.0 OFF
@@ -2020,22 +2012,22 @@
 /headamp/029 +40.0 OFF
 /headamp/030 +33.0 OFF
 /headamp/031 +28.5 OFF
-/headamp/032 +40.0 ON
-/headamp/033 +40.0 ON
-/headamp/034 +11.0 ON
-/headamp/035 +40.5 ON
+/headamp/032 +43.0 ON
+/headamp/033 +44.5 ON
+/headamp/034 +14.5 ON
+/headamp/035 +28.5 ON
 /headamp/036 +38.0 OFF
-/headamp/037 +38.0 OFF
-/headamp/038 +33.5 OFF
+/headamp/037 +25.5 OFF
+/headamp/038 +40.0 OFF
 /headamp/039 +50.5 OFF
 /headamp/040 +37.0 OFF
 /headamp/041 +46.5 ON
 /headamp/042 +38.5 OFF
-/headamp/043 +41.5 OFF
-/headamp/044 +45.5 ON
+/headamp/043 +43.0 OFF
+/headamp/044 +41.5 ON
 /headamp/045 +49.0 ON
 /headamp/046 +13.5 OFF
-/headamp/047 +35.5 ON
+/headamp/047 +38.0 ON
 /headamp/048 -0.5 ON
 /headamp/049 +12.0 OFF
 /headamp/050 +19.0 OFF
