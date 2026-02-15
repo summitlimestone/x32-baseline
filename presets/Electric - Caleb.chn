@@ -10,3 +10,4 @@
 /eq/3 PEQ 990.9 -4.00 2.0
 /eq/4 HShv 10k02 +3.50 2.0
 /headamp/044 +45.5 ON
+/config "Cal Elec" 1 WH

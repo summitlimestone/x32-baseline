@@ -10,3 +10,4 @@
 /eq/3 PEQ 1k49 -1.50 1.0
 /eq/4 PEQ 4k68 -15.0 7.8
 /headamp/035 +37.0 ON
+/config "Dav Elec" 1 WH

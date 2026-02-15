@@ -11,3 +11,4 @@
 /eq/3 VEQ 677.7 +2.75 2.0
 /eq/4 HCut 3k31 -15.0 2.0
 /headamp/046 +45.5 OFF
+/config "Dav Bass" 1 WH
